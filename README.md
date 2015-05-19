@@ -53,7 +53,7 @@ You'll find more help on the Paw Documentation, but everything happens in the `i
 
 This template is released under the [MIT License](LICENSE). Feel free to fork, and modify!
 
-Copyright © 2014 Paw Inc.
+Copyright © 2014-2015 Paw Inc.
 
 ## Contributors
 
