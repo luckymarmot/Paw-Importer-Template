@@ -37,4 +37,5 @@ MyImporter.identifier = "com.luckymarmot.PawExtensions.MyImporter"
 MyImporter.title = "My Importer"
 
 # Don't forget to call `registerImporter` this is how Paw
+# knows that you want to register your importer.
 registerImporter(MyImporter)
